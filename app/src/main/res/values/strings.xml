@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1. MyFirstExercise</string>
+    <string name="nama">Nama : Irfani Dwi Arifianto</string>
+    <string name="nim">NIM : 3.34.19.1.10</string>
+    <string name="ttl">TTL : Brebes, 13 April 2001</string>
+    <string name="biodata_mahasiswa">Biodata Mahasiswa</string>
+    <string name="prodi">Prodi : D3-Teknik Informatika</string>
+    <string name="cita_cita">Cita-cita : Programmer</string>
+</resources>
